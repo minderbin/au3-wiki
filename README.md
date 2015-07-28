@@ -1,7 +1,7 @@
 # au3 wiki
 au3 wiki is a minimalist wiki engine in pure php. It provides basic wiki functionality in a small codebase.
-The default password for editing pages is *password!!*. Please change this in *index.php*
-You can use the *pwgen.php tool* to generate your own password hash.
+The default password for editing pages is *password*. Please change this in *index.php*
+You can use the *pwgen.php* tool (under util/) to generate your own password hash.
 
 The code is messy and probably full of security holes - use at your own risk!
 
