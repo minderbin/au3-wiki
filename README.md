@@ -6,12 +6,12 @@ You can use the *pwgen.php* tool (under util/) to generate your own password has
 The code is messy and probably full of security holes - use at your own risk!
 
 ###Features
-	- Minimalist
-	- Filesystem based (no databases)
-	- Easy to use markup
-	- Themeable
-	- Plugin support
-	- Engine uses no javascript/cookies
+- Minimalist
+- Filesystem based (no databases)
+- Easy to use markup
+- Themeable
+- Plugin support
+- Engine uses no javascript/cookies
 
 ###Acknowledgements
 - Some code adapted from Felix Plesoianu's [wabisabi wiki](http://felix.plesoianu.ro/php/wabisabi/|wabisabi wiki)
