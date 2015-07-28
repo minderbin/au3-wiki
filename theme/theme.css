@@ -1,0 +1,49 @@
+textarea {
+width:100%;
+height:70%;
+}
+
+.alert {
+width:100%;
+background-color:#F00;
+color:#fff;
+}
+
+.upload {
+clear:left;
+}
+
+.sa,.pass {
+float:left;
+clear:left;
+}
+
+.ed {
+margin:20px 0 30px 20px;
+padding:0 10px;
+}
+
+.content ul,ol {
+	margin:0;
+}
+
+.content h1 {
+	margin:5px 0 5px 0;
+	color:#009;
+}
+.content h2,h3,h4,h5,h6 {
+	margin:10px 0 0 0;
+	color:#009;
+}
+
+.content th {
+	border:3px solid #99f;
+	color:#009;
+	background-color:#ccc;
+}
+.content table,td {
+	border:1px solid;
+}
+.content td,th {
+	padding:10px 10px 10px 10px;
+}

@@ -1,0 +1,15 @@
+==Welcome
+au3 wiki is a minimalist wiki engine in pure php. It provides basic wiki functionality in a small codebase.
+The default password for editing pages is '!!password!!'. Please change this in !!index.php!!!
+You can use the {{http://au3.org/utils/pwgen.php|password tool}} to generate your own password hash.
+===Features
+.Minimalist
+.Filesystem based (no databases)
+.Easy to use {markup|markup}
+.{themes|Themeable}
+.{plugins|Plugin support}
+.Engine uses no javascript/cookies
+===Acknowledgements
+.Some code adapted from Felix Plesoianu's {{http://felix.plesoianu.ro/php/wabisabi/|wabisabi wiki}}
+.Default theme implements {{http://purecss.io|'Pure CSS' modules}}
+.syntax-highlight plugin implements {{https://code.google.com/p/google-code-prettify/|google-code-prettify}}
